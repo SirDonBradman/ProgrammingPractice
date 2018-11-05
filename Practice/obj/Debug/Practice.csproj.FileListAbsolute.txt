@@ -1,0 +1,7 @@
+C:\Users\Shivam.Mishra\source\repos\Practice\Practice\bin\Debug\Practice.exe.config
+C:\Users\Shivam.Mishra\source\repos\Practice\Practice\bin\Debug\Practice.exe
+C:\Users\Shivam.Mishra\source\repos\Practice\Practice\bin\Debug\Practice.pdb
+C:\Users\Shivam.Mishra\source\repos\Practice\Practice\obj\Debug\Practice.csprojResolveAssemblyReference.cache
+C:\Users\Shivam.Mishra\source\repos\Practice\Practice\obj\Debug\Practice.csproj.CoreCompileInputs.cache
+C:\Users\Shivam.Mishra\source\repos\Practice\Practice\obj\Debug\Practice.exe
+C:\Users\Shivam.Mishra\source\repos\Practice\Practice\obj\Debug\Practice.pdb
